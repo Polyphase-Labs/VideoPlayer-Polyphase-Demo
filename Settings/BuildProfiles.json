@@ -1,13 +1,22 @@
 {
     "version": 1,
-    "selectedProfileIndex": 0,
-    "nextProfileId": 2,
+    "selectedProfileIndex": 1,
+    "nextProfileId": 3,
     "currentTargetProfileId": 0,
     "profiles": [
         {
             "id": 1,
-            "name": "Default",
+            "name": "Windows",
             "platform": 0,
+            "embedded": true,
+            "outputDirectory": "",
+            "useDocker": false,
+            "openDirectoryOnFinish": true
+        },
+        {
+            "id": 2,
+            "name": "Linux",
+            "platform": 1,
             "embedded": true,
             "outputDirectory": "",
             "useDocker": false,
