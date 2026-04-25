@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "selectedProfileIndex": 1,
+    "selectedProfileIndex": 0,
     "nextProfileId": 3,
     "currentTargetProfileId": 0,
     "profiles": [
@@ -8,7 +8,7 @@
             "id": 1,
             "name": "Windows",
             "platform": 0,
-            "embedded": true,
+            "embedded": false,
             "outputDirectory": "",
             "useDocker": false,
             "openDirectoryOnFinish": true
