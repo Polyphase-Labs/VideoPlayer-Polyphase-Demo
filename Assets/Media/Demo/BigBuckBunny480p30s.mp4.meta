@@ -1,0 +1,9 @@
+{
+    "platforms": [
+        "Linux",
+        "Android",
+        "GameCube",
+        "Wii",
+        "N3DS"
+    ]
+}
