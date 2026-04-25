@@ -1,0 +1,3 @@
+[submodule "Packages/com.polyphase.formats.video"]
+	path = Packages/com.polyphase.formats.video
+	url = git@github-polyphase:Polyphase-Labs/com.polyphase.formats.video.git
